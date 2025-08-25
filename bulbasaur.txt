@@ -1,0 +1,1 @@
+echo  contenido de archivo
